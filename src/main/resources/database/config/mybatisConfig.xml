@@ -9,5 +9,6 @@
  		<typeAlias type="java.util.List" alias="List"/>
  		<typeAlias type="java.util.Map" alias="Map"/>
 
+		<typeAlias type="com.ppp.rrr.bankBookDTO" alias="bankBookDTO"/>
  	</typeAliases>
  </configuration>
