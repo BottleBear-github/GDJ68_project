@@ -13,6 +13,7 @@
 
  		<typeAlias type="com.ppp.rrr.board.qna.QnADTO" alias="QnADTO"/>
 		<typeAlias type="com.ppp.rrr.bankBook.BankBookDTO" alias="BankBookDTO"/>
+		<typeAlias type="com.ppp.rrr.board.notice.NoticeDTO" alias="NoticeDTO"/>
 
 
  	</typeAliases>
